@@ -4,4 +4,6 @@ The NBA draft is annually regarded as one of the most anticipated sporting event
 
 
 SOURCES
+
+
 We collected our data for college stats using  (https://www.sports-reference.com/cbb/), for international players we used RealGM (https://basketball.realgm.com/nba), and finally for g-league prospects we used the official g-league website (https://stats.gleague.nba.com/player/1630699/usage/). The data we utilized was manually inputted into an Excel spreadsheet, which was then converted into individual CSV files for the purpose of coding. 
